@@ -12,15 +12,4 @@
 /captures
 .externalNativeBuild
 /build
-/keystore
-/bugly
-*.iml
-.DS_Store
-.class
-.bin
-.lock
-.apk
-.bat
-.dll.lock
-.dll
-.json
+g
