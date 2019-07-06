@@ -18,7 +18,9 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
         }
     }
-
+    lintOptions {
+        abortOnError false
+    }
 }
 
 dependencies {
@@ -32,7 +34,7 @@ dependencies {
     implementation 'androidx.core:core-ktx:+'
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
     implementation project(path: ':baselibrary')
-//    implementation 'com.github.13701719653:study_demo:1.1'
+//    implementation 'com.github.13701719653:study_demo:1.2'
 }
 repositories {
     mavenCentral()
