@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.test:monitor:1.2.0@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dd11d6d284ed10d39a3b5bd5de98a00b/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dd11d6d284ed10d39a3b5bd5de98a00b/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c47d1904d7e845c060d570bb1197b5d7/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c47d1904d7e845c060d570bb1197b5d7/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

@@ -36,7 +36,9 @@ import java.util.ArrayList;
          rvAdapter.setOnItemClick { viewHolder, position ->
              when(position){
                  0->{startActivity(Intent(this@MainActivity, PaintActivity::class.java))}
-                 1->{}
+                 1->{
+
+                 }
              }
          }
 
